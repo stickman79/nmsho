@@ -1,2 +1,6 @@
-# nmsho
-tool do nmap + shodan desenvolvido por meu amigo xzzyz
+sudo apt install git
+git clone  https://github.com/stickman79/nmsho
+cd nmsho
+
+iniciar:
+Shodan-Nmap
