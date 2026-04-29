@@ -7,7 +7,6 @@ git clone https://github.com/stickman79/nmsho.git
 
 cd nmsho
 
-pip install -r requirements.txt
 
 python shodan.py
 
@@ -29,8 +28,6 @@ sudo apt update && apt upgrade -y
 
 git clone https://github.com/stickman79/nmsho
 cd nmsho
-
-pip3 install -r requirements.txt
 
 python3 shodan.py
 
