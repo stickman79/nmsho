@@ -1,7 +1,6 @@
 #!/bin/bash
 echo "Instalando a ferramenta..."
-pkg update && pkg upgrade -y
-git clone https://github.com/seu-usuario/nome-da-ferramenta.git
-cd nome-da-ferramenta
-pip install -r requirements.txt
+sudo apt update && apt upgrade -y
+git clone https://github.com/stickman79/nmsho
+cd nmsho
 python tool.py
