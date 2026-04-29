@@ -9,7 +9,7 @@ python tool.py
 
 iniciar:
 -
-cd nome-da-ferramenta
+cd nmsho
 python tool.py
 
 
