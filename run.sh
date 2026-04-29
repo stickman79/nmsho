@@ -1,3 +1,3 @@
 #!/bin/bash
-cd nome-da-ferramenta
+cd nmsho
 python tool.py
