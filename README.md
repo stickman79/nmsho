@@ -22,11 +22,16 @@ para kali:
 -
 
 cd nmsho
+
 python tool.py
-apt update && apt upgrade -y
+
+sudo apt update && apt upgrade -y
+
 git clone https://github.com/stickman79/nmsho
 cd nmsho
+
 pip3 install -r requirements.txt
+
 python3 shodan.py
 
 iniciar:
