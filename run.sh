@@ -1,3 +1,3 @@
 #!/bin/bash
 cd nmsho
-python tool.py
+python shodan.py
