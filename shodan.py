@@ -1,9 +1,6 @@
 import subprocess
 import requests
 import sys
-import ip
-import Sistema, Operacional
-import Portas
 
 print ("KILLER OSINT - shodan+nmap")
 print ("by: xzzyz and slash3r")
