@@ -29,7 +29,7 @@ sudo apt update && apt upgrade -y
 git clone https://github.com/stickman79/nmsho
 cd nmsho
 
-python3 shodan.py
+python shodan.py
 
 iniciar:
 
